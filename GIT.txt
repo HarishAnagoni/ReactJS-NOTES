@@ -1,3 +1,5 @@
+commands added
+===============================
 echo "# ReactJS-NOTES" >> README.md
 git init
 git add README.md
